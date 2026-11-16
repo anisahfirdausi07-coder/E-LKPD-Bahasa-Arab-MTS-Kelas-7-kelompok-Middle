@@ -1,0 +1,6 @@
+{
+  "name": "رِحْلَتِي فِي عَالَمِ اللُّغَةِ الْعَرَبِيَّةِ",
+  "description": "E-LKPD Bahasa Arab Interaktif Kelas VII MTs dengan tingkat مُسْتَوَى مُنْخَفِض dan مُسْتَوَى مُتَوَسِّط meliputi Maharah Istima', Kalam, Qira'ah, dan Kitabah.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
